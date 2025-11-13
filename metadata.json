@@ -1,0 +1,8 @@
+
+{
+  "name": "Korean Language AI Tutor",
+  "description": "Practice your Korean speaking skills through a real-time voice call with an AI tutor. This application uses a subscription-based model to unlock the full conversational experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
